@@ -1,0 +1,5 @@
+{
+    "StartTime": "2024-03-07T06:48:56.934698",
+    "IsInteractive": true,
+    "ScriptFilePath": "D:\\Python\\work1\\Scripts\\main_v1.py"
+}
